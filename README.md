@@ -10,7 +10,7 @@ En Hardware:
           
 En Software:
             Sistema operativo
-            Releade
+            Release
             Nuestra version de python
             
            
