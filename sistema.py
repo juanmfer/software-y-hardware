@@ -1,5 +1,7 @@
 # Informacion util software y hardware
 # https://github.com/juanmfer
+# pip install psutil
+# pip install py-cpuinfo
 import os
 import platform
 import psutil
